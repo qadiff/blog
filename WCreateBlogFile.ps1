@@ -1,4 +1,4 @@
-$folderName = "Logs/"
+$folderName = "/"
 $date = Get-Date -Format "yyyy/MM/dd"
 if (Test-Path ./$folderName/$date/) {
     Write-Host "Folder $date already exists."
