@@ -1,9 +1,8 @@
 ---
 lang: ja
 title: 技術カテゴリの記事一覧
-category: tech
-layout: category
 description: プログラミングや最新技術に関する記事の一覧です
+color: '#3B82F6'
 ---
 
 このカテゴリには、プログラミング言語、開発手法、ツールなどに関する記事が含まれます。
