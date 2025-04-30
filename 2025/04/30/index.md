@@ -1,6 +1,6 @@
 ---
 lang: ja
-title: 
+title: Grok にニックネームを考えさせたい
 category:
 date: 
 coverImg:
