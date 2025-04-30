@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ja
 title: Blog for 2025-04
 description: Blog articles published in 2025-04
 layout: month-index
