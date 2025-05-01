@@ -16,6 +16,11 @@ $TargetMonth = "04"
 ./Generate-NewsArchives.ps1
 ```
 
+## 運用
+
+リモートで削除したブランチを、ローカルでも削除する： `./Delete-Branches.bat`
+
+
 ## そのうち拡張したいところ
 
 1. 検索機能
