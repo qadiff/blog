@@ -6,7 +6,7 @@ date:
 coverImg:
 coverSub:
 author:
-tag: Blog
+tag: ['Blog','grok']
 ---
 
 ## Grok にニックネームを考えさせたい
