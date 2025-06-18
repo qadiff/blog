@@ -56,7 +56,7 @@ tags: $tagsStr
 CoverImg: '$CoverImg'
 ---
 
-# タイトル（魅力的でSEOを意識したもの）
+# $Title（魅力的でSEOを意識したものか？）
 
 ## 導入（読者を引き込む）
 
